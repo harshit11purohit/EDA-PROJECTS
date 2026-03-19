@@ -1,27 +1,66 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-### Blinkit Analysis
+Exploratory Data Analysis (EDA) Master Repository 📊
+This repository is a consolidated collection of Exploratory Data Analysis projects, focusing on extracting actionable insights from diverse industries including Retail, Healthcare, Tech, and HR. Each project demonstrates end-to-end data pipelines involving cleaning, feature engineering, and statistical visualization.
 
-View the rendered notebook on nbviewer:
+📂 Project Portfolio
+1. Blinkit Analysis (EDA-Blinkit-Analysis)
+Overview: An in-depth look at delivery operations and inventory management for a quick-commerce platform.
 
-👉 [Blinkit Analysis Notebook](https://nbviewer.org/github/harshit11purohit/Blinkit-Analysis/blob/main/blinkit%20analysis.ipynb)
-=======
-### Diwali Sales Analysis
+Insights: Focuses on identifying delivery bottlenecks and popular product categories to optimize supply chain efficiency.
 
-View the rendered notebook on nbviewer:
 
-👉 [Diwali Sales Analysis Notebook](https://nbviewer.org/github/harshit11purohit/diwali-sales-anlysis/blob/main/Diwali_Sales_Analysis-checkpoint.ipynb)
-# diwali-sales-anlysis
-This project focuses on analyzing Diwali sales data using Python to understand customer purchasing behavior and identify key factors influencing sales during the festive season. The analysis helps uncover trends across gender, age group, occupation, marital status, and product categories, enabling data-driven business decisions.
->>>>>>> old_repo/main
-=======
-[Customer Churn Analysis Notebook](https://nbviewer.org/github/harshit11purohit/customerchurn-analysis/blob/main/custchurnanalysis.ipynb)
+Techniques: Trend analysis, distribution plotting, and operational metric calculation using Pandas and Seaborn.
 
-# customerchurn-analysis
-data analysis and data science project takes raw data of telco communication and perform eda and other tasks
->>>>>>> old_repo/main
-=======
-# EDA-google-play-analytics
-The primary objective of performing EDA on the Google Play Store dataset is to understand the structure, quality, and distribution of data, identify patterns and trends in mobile applications, and extract business-relevant insights related to app popularity, user engagement, and monetization.
->>>>>>> old_repo/main
+2. Diwali Sales Analysis (EDA-Diwali-Sales)
+
+Overview: Analysis of consumer purchasing behavior during the Indian festive season.
+
+
+Insights: Identifies key demographics (age, gender, state) and high-demand product categories to drive targeted marketing strategies.
+
+
+Techniques: Customer segmentation, demographic profiling, and seasonal demand pattern identification.
+
+3. Customer Churn Analysis (EDA-Customer-Churn)
+
+Overview: Predicting and analyzing customer attrition for subscription-based services.
+
+Insights: Evaluates factors like contract types and monthly charges to understand why customers leave, helping businesses improve retention.
+
+
+Techniques: Correlation heatmaps, handling class imbalance using SMOTE, and feature scaling.
+
+4. Chronic Disease Analysis (Chronic-Disease)
+Overview: A healthcare-focused analysis investigating various indicators of chronic illnesses.
+
+
+Insights: Uses statistical modeling to find relationships between lifestyle factors and disease prevalence.
+
+
+Techniques: Outlier handling, hypothesis testing, and multi-variate analysis.
+
+5. Google Play Store Analytics (EDA-Google-Play)
+Overview: Analysis of the mobile app ecosystem to determine what makes an app successful.
+
+Insights: Investigates the relationship between ratings, reviews, and categories to guide developers in app optimization.
+
+
+Techniques: Data cleaning (handling millions of records), sentiment analysis of reviews, and category-wise performance comparison.
+
+6. HR Analytics (EDA-HR-Analytics)
+Overview: Utilizing data to understand employee turnover and performance metrics within an organization.
+
+
+Insights: Highlights key drivers of employee satisfaction and attrition, providing data-driven solutions for talent management.
+
+
+Techniques: Feature encoding, exploratory data analysis with Plotly, and predictive modeling for employee status.
+
+🛠️ Technical Stack
+
+Languages: Python.
+
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn.
+
+
+Tools: Jupyter Notebook, VS Code, Git/GitHub.

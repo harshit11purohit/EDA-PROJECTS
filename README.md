@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Blinkit Analysis
 
 View the rendered notebook on nbviewer:
@@ -19,4 +20,8 @@ This project focuses on analyzing Diwali sales data using Python to understand c
 
 # customerchurn-analysis
 data analysis and data science project takes raw data of telco communication and perform eda and other tasks
+>>>>>>> old_repo/main
+=======
+# EDA-google-play-analytics
+The primary objective of performing EDA on the Google Play Store dataset is to understand the structure, quality, and distribution of data, identify patterns and trends in mobile applications, and extract business-relevant insights related to app popularity, user engagement, and monetization.
 >>>>>>> old_repo/main
